@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>LevelSalary</title>
+<script src="../echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1800px;height:800px;"></div>
+<script type="text/javascript">
+var myChart = echarts.init(document.getElementById('main'));
+var option = {
+	tooltip:{},
+	xAxis: {
+		data:['3','5','6','7','8','9']
+	},
+	yAxis:{},
+	series:[{
+		name:'sale',
+		type:'line',
+		data:[1958.024390,3992.500000,5338.300000,6267.760563,7192.238095,9251.000000]
+	}]
+}
+myChart.setOption(option);
+</script></body></html>

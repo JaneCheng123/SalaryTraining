@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>MinSalary</title>
+<script src="../echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1800px;height:800px;"></div>
+<script type="text/javascript">
+var myChart = echarts.init(document.getElementById('main'));
+var option = {
+	tooltip:{},
+	xAxis: {
+		data:['Top1','Top2','Top3','Top4','Top5','Top6','Top7','Top8','Top9','Top10']
+	},
+	yAxis:{},
+	series:[{
+		name:'sale',
+		type:'bar',
+		data:[1442.000000,1541.000000,1640.000000,1739.000000,1749.000000,1790.000000,1800.000000,1848.000000,1947.000000,1950.000000]
+	}]
+}
+myChart.setOption(option);
+</script></body></html>

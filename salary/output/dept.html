@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>DepartmentSalary</title>
+<script src="../echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1800px;height:800px;"></div>
+<script type="text/javascript">
+var myChart = echarts.init(document.getElementById('main'));
+var option = {
+	tooltip:{},
+	xAxis: {
+		data:['Customer Service','Development','Engineering','Finance','Human Resource','Marketing','Ministry of Law ','Production','Purchasing','Testing']
+	},
+	yAxis:{},
+	series:[{
+		name:'sale',
+		type:'bar',
+		data:[70843.000000,144616.000000,225076.000000,29760.000000,64728.000000,97998.000000,72307.000000,224539.000000,71015.000000,48821.000000]
+	}]
+}
+myChart.setOption(option);
+</script></body></html>

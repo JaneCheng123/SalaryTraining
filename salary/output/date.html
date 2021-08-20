@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>DateSalary</title>
+<script src="../echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1800px;height:800px;"></div>
+<script type="text/javascript">
+var myChart = echarts.init(document.getElementById('main'));
+var option = {
+	tooltip:{},
+	xAxis: {
+		data:['2010','2011','2012','2013','2014','2015','2016','2017','2018','2019','2020','2021']
+	},
+	yAxis:{},
+	series:[{
+		name:'sale',
+		type:'bar',
+		data:[3,3,2,46,41,50,18,14,16,13,3,1]
+	}]
+}
+myChart.setOption(option);
+</script></body></html>

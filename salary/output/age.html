@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>AgeSalary</title>
+<script src="../echarts.min.js"></script>
+</head>
+<body>
+<div id="main" style="width: 1800px;height:800px;"></div>
+<script type="text/javascript">
+var myChart = echarts.init(document.getElementById('main'));
+var option = {
+	tooltip:{},
+	xAxis: {
+		data:['20-29','30-39','40-49','50-59']
+	},
+	yAxis:{},
+	series:[{
+		name:'sale',
+		type:'bar',
+		data:[399488.000000,232832.000000,252649.000000,164734.000000,]
+	}]
+}
+myChart.setOption(option);
+</script></body></html>

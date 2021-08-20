@@ -1,0 +1,210 @@
+{"age: ":24,"department: ":"Human Resource","employee ID: ":13023,"hiredate: ":"2018-10-01","level: ":3,"name: ":"Gilbert","salary: ":1290,"subsidy: ":500.0,"total: ":1790.0}
+{"age: ":26,"department: ":"Development","employee ID: ":13038,"hiredate: ":"2016-09-22","level: ":3,"name: ":"Kilby","salary: ":1390,"subsidy: ":700.0,"total: ":2090.0}
+{"age: ":28,"department: ":"Ministry of Law ","employee ID: ":13053,"hiredate: ":"2010-03-09","level: ":3,"name: ":"Kyle","salary: ":1490,"subsidy: ":1400.0,"total: ":2890.0}
+{"age: ":30,"department: ":"Production","employee ID: ":13068,"hiredate: ":"2018-10-01","level: ":4,"name: ":"Willis","salary: ":1590,"subsidy: ":600.0,"total: ":2190.0}
+{"age: ":32,"department: ":"Purchasing","employee ID: ":13083,"hiredate: ":"2016-09-22","level: ":4,"name: ":"Joe","salary: ":1690,"subsidy: ":800.0,"total: ":2490.0}
+{"age: ":34,"department: ":"Marketing","employee ID: ":13098,"hiredate: ":"2010-03-09","level: ":4,"name: ":"Leonard","salary: ":1790,"subsidy: ":1500.0,"total: ":3290.0}
+{"age: ":36,"department: ":"Engineering","employee ID: ":13113,"hiredate: ":"2018-10-01","level: ":4,"name: ":"Kerwin","salary: ":1890,"subsidy: ":600.0,"total: ":2490.0}
+{"age: ":38,"department: ":"Finance","employee ID: ":13128,"hiredate: ":"2016-09-22","level: ":4,"name: ":"Faithful","salary: ":1990,"subsidy: ":800.0,"total: ":2790.0}
+{"age: ":40,"department: ":"Testing","employee ID: ":13143,"hiredate: ":"2010-02-03","level: ":4,"name: ":"Dean","salary: ":2090,"subsidy: ":1500.0,"total: ":3590.0}
+{"age: ":42,"department: ":"Customer Service","employee ID: ":13158,"hiredate: ":"2011-02-03","level: ":4,"name: ":"Wylie","salary: ":2190,"subsidy: ":1400.0,"total: ":3590.0}
+{"age: ":44,"department: ":"Customer Service","employee ID: ":13173,"hiredate: ":"2012-02-03","level: ":4,"name: ":"Unity","salary: ":2290,"subsidy: ":1300.0,"total: ":3590.0}
+{"age: ":21,"department: ":"Human Resource","employee ID: ":13188,"hiredate: ":"2013-02-03","level: ":4,"name: ":"Nadine","salary: ":2390,"subsidy: ":1200.0,"total: ":3590.0}
+{"age: ":47,"department: ":"Development","employee ID: ":13203,"hiredate: ":"2014-02-03","level: ":4,"name: ":"Pandora","salary: ":2490,"subsidy: ":1100.0,"total: ":3590.0}
+{"age: ":46,"department: ":"Ministry of Law ","employee ID: ":13218,"hiredate: ":"2015-02-03","level: ":5,"name: ":"Molly","salary: ":2590,"subsidy: ":1100.0,"total: ":3690.0}
+{"age: ":45,"department: ":"Production","employee ID: ":13233,"hiredate: ":"2016-02-03","level: ":5,"name: ":"Naomi","salary: ":2690,"subsidy: ":1000.0,"total: ":3690.0}
+{"age: ":44,"department: ":"Purchasing","employee ID: ":13248,"hiredate: ":"2017-02-03","level: ":3,"name: ":"Beauty","salary: ":1039,"subsidy: ":700.0,"total: ":1739.0}
+{"age: ":43,"department: ":"Marketing","employee ID: ":13263,"hiredate: ":"2018-02-03","level: ":3,"name: ":"Searcher","salary: ":1040,"subsidy: ":600.0,"total: ":1640.0}
+{"age: ":42,"department: ":"Engineering","employee ID: ":13278,"hiredate: ":"2019-02-03","level: ":3,"name: ":"Luna","salary: ":1041,"subsidy: ":500.0,"total: ":1541.0}
+{"age: ":41,"department: ":"Finance","employee ID: ":13293,"hiredate: ":"2020-02-03","level: ":3,"name: ":"Abigail","salary: ":1042,"subsidy: ":400.0,"total: ":1442.0}
+{"age: ":40,"department: ":"Testing","employee ID: ":13308,"hiredate: ":"2011-02-03","level: ":3,"name: ":"Myrtle","salary: ":1043,"subsidy: ":1300.0,"total: ":2343.0}
+{"age: ":39,"department: ":"Customer Service","employee ID: ":13323,"hiredate: ":"2012-02-03","level: ":3,"name: ":"Glenn","salary: ":1044,"subsidy: ":1200.0,"total: ":2244.0}
+{"age: ":38,"department: ":"Customer Service","employee ID: ":13338,"hiredate: ":"2013-02-03","level: ":3,"name: ":"Elvis","salary: ":1045,"subsidy: ":1100.0,"total: ":2145.0}
+{"age: ":37,"department: ":"Human Resource","employee ID: ":13353,"hiredate: ":"2014-02-03","level: ":3,"name: ":"Frey","salary: ":1046,"subsidy: ":1000.0,"total: ":2046.0}
+{"age: ":36,"department: ":"Development","employee ID: ":13368,"hiredate: ":"2015-02-03","level: ":3,"name: ":"Supplanter","salary: ":1047,"subsidy: ":900.0,"total: ":1947.0}
+{"age: ":35,"department: ":"Ministry of Law ","employee ID: ":13383,"hiredate: ":"2016-02-03","level: ":3,"name: ":"Wesley","salary: ":1048,"subsidy: ":800.0,"total: ":1848.0}
+{"age: ":34,"department: ":"Production","employee ID: ":13398,"hiredate: ":"2017-02-03","level: ":3,"name: ":"Lane","salary: ":1049,"subsidy: ":700.0,"total: ":1749.0}
+{"age: ":33,"department: ":"Purchasing","employee ID: ":13413,"hiredate: ":"2015-03-05","level: ":3,"name: ":"Wilbur","salary: ":1050,"subsidy: ":900.0,"total: ":1950.0}
+{"age: ":32,"department: ":"Marketing","employee ID: ":13428,"hiredate: ":"2015-03-08","level: ":3,"name: ":"Frasier","salary: ":1051,"subsidy: ":900.0,"total: ":1951.0}
+{"age: ":31,"department: ":"Engineering","employee ID: ":13443,"hiredate: ":"2015-03-11","level: ":3,"name: ":"Lancelot","salary: ":1052,"subsidy: ":900.0,"total: ":1952.0}
+{"age: ":30,"department: ":"Human Resource","employee ID: ":13458,"hiredate: ":"2015-03-14","level: ":3,"name: ":"Lars","salary: ":1053,"subsidy: ":900.0,"total: ":1953.0}
+{"age: ":29,"department: ":"Development","employee ID: ":13473,"hiredate: ":"2015-03-17","level: ":3,"name: ":"Eighth","salary: ":1054,"subsidy: ":900.0,"total: ":1954.0}
+{"age: ":28,"department: ":"Ministry of Law ","employee ID: ":13488,"hiredate: ":"2015-03-20","level: ":3,"name: ":"Plains","salary: ":1055,"subsidy: ":900.0,"total: ":1955.0}
+{"age: ":27,"department: ":"Production","employee ID: ":13503,"hiredate: ":"2015-03-23","level: ":3,"name: ":"Kathleen","salary: ":1056,"subsidy: ":900.0,"total: ":1956.0}
+{"age: ":26,"department: ":"Purchasing","employee ID: ":13518,"hiredate: ":"2015-03-26","level: ":3,"name: ":"Millicent","salary: ":1057,"subsidy: ":900.0,"total: ":1957.0}
+{"age: ":25,"department: ":"Marketing","employee ID: ":13533,"hiredate: ":"2015-03-29","level: ":3,"name: ":"Marie","salary: ":1058,"subsidy: ":900.0,"total: ":1958.0}
+{"age: ":24,"department: ":"Engineering","employee ID: ":13548,"hiredate: ":"2015-04-01","level: ":3,"name: ":"Lucia","salary: ":1059,"subsidy: ":900.0,"total: ":1959.0}
+{"age: ":33,"department: ":"Finance","employee ID: ":13563,"hiredate: ":"2015-04-04","level: ":3,"name: ":"Jane","salary: ":1060,"subsidy: ":900.0,"total: ":1960.0}
+{"age: ":40,"department: ":"Testing","employee ID: ":13578,"hiredate: ":"2015-04-07","level: ":3,"name: ":"Flora","salary: ":1061,"subsidy: ":900.0,"total: ":1961.0}
+{"age: ":47,"department: ":"Customer Service","employee ID: ":13593,"hiredate: ":"2015-04-10","level: ":3,"name: ":"Fedora","salary: ":1062,"subsidy: ":900.0,"total: ":1962.0}
+{"age: ":54,"department: ":"Customer Service","employee ID: ":13608,"hiredate: ":"2015-04-13","level: ":3,"name: ":"Mavis","salary: ":1063,"subsidy: ":900.0,"total: ":1963.0}
+{"age: ":55,"department: ":"Human Resource","employee ID: ":13623,"hiredate: ":"2015-04-16","level: ":3,"name: ":"Imogene","salary: ":1064,"subsidy: ":900.0,"total: ":1964.0}
+{"age: ":29,"department: ":"Development","employee ID: ":13638,"hiredate: ":"2015-04-19","level: ":3,"name: ":"Alma","salary: ":1065,"subsidy: ":900.0,"total: ":1965.0}
+{"age: ":20,"department: ":"Ministry of Law ","employee ID: ":13653,"hiredate: ":"2015-04-22","level: ":3,"name: ":"Lucia","salary: ":1066,"subsidy: ":900.0,"total: ":1966.0}
+{"age: ":30,"department: ":"Production","employee ID: ":13668,"hiredate: ":"2015-04-25","level: ":3,"name: ":"Lee","salary: ":1067,"subsidy: ":900.0,"total: ":1967.0}
+{"age: ":40,"department: ":"Purchasing","employee ID: ":13683,"hiredate: ":"2015-04-28","level: ":3,"name: ":"Listener","salary: ":1068,"subsidy: ":900.0,"total: ":1968.0}
+{"age: ":50,"department: ":"Marketing","employee ID: ":13698,"hiredate: ":"2015-05-01","level: ":3,"name: ":"Rowena","salary: ":1069,"subsidy: ":900.0,"total: ":1969.0}
+{"age: ":20,"department: ":"Engineering","employee ID: ":13713,"hiredate: ":"2015-05-04","level: ":3,"name: ":"Unity","salary: ":1070,"subsidy: ":900.0,"total: ":1970.0}
+{"age: ":31,"department: ":"Marketing","employee ID: ":13728,"hiredate: ":"2015-05-07","level: ":3,"name: ":"Pleasure","salary: ":1071,"subsidy: ":900.0,"total: ":1971.0}
+{"age: ":30,"department: ":"Engineering","employee ID: ":13743,"hiredate: ":"2015-05-10","level: ":3,"name: ":"Deborah","salary: ":1072,"subsidy: ":900.0,"total: ":1972.0}
+{"age: ":29,"department: ":"Human Resource","employee ID: ":13758,"hiredate: ":"2015-05-13","level: ":3,"name: ":"Elfin","salary: ":1073,"subsidy: ":900.0,"total: ":1973.0}
+{"age: ":28,"department: ":"Development","employee ID: ":14500,"hiredate: ":"2015-05-16","level: ":3,"name: ":"Caretaker","salary: ":1074,"subsidy: ":900.0,"total: ":1974.0}
+{"age: ":27,"department: ":"Ministry of Law ","employee ID: ":14574,"hiredate: ":"2015-05-19","level: ":3,"name: ":"Emery","salary: ":1075,"subsidy: ":900.0,"total: ":1975.0}
+{"age: ":26,"department: ":"Production","employee ID: ":14648,"hiredate: ":"2015-05-22","level: ":4,"name: ":"Samson","salary: ":2098,"subsidy: ":1000.0,"total: ":3098.0}
+{"age: ":25,"department: ":"Purchasing","employee ID: ":14722,"hiredate: ":"2015-05-25","level: ":4,"name: ":"Edward","salary: ":2198,"subsidy: ":1000.0,"total: ":3198.0}
+{"age: ":24,"department: ":"Marketing","employee ID: ":14796,"hiredate: ":"2015-05-28","level: ":4,"name: ":"Kenneth","salary: ":2298,"subsidy: ":1000.0,"total: ":3298.0}
+{"age: ":33,"department: ":"Engineering","employee ID: ":14870,"hiredate: ":"2015-05-31","level: ":4,"name: ":"Nimble","salary: ":2398,"subsidy: ":1000.0,"total: ":3398.0}
+{"age: ":40,"department: ":"Finance","employee ID: ":14944,"hiredate: ":"2015-06-03","level: ":4,"name: ":"Marlon","salary: ":2498,"subsidy: ":1000.0,"total: ":3498.0}
+{"age: ":47,"department: ":"Ministry of Law ","employee ID: ":15018,"hiredate: ":"2015-06-06","level: ":5,"name: ":"Sigmund","salary: ":2598,"subsidy: ":1000.0,"total: ":3598.0}
+{"age: ":54,"department: ":"Production","employee ID: ":15092,"hiredate: ":"2015-06-09","level: ":5,"name: ":"Quincy","salary: ":2698,"subsidy: ":1000.0,"total: ":3698.0}
+{"age: ":55,"department: ":"Purchasing","employee ID: ":15166,"hiredate: ":"2015-06-12","level: ":5,"name: ":"Constant","salary: ":2798,"subsidy: ":1000.0,"total: ":3798.0}
+{"age: ":29,"department: ":"Marketing","employee ID: ":15240,"hiredate: ":"2013-01-02","level: ":5,"name: ":"Falcon","salary: ":2898,"subsidy: ":1300.0,"total: ":4198.0}
+{"age: ":20,"department: ":"Engineering","employee ID: ":15314,"hiredate: ":"2013-01-12","level: ":5,"name: ":"Marcus","salary: ":2998,"subsidy: ":1300.0,"total: ":4298.0}
+{"age: ":30,"department: ":"Marketing","employee ID: ":15388,"hiredate: ":"2013-01-22","level: ":5,"name: ":"Drake","salary: ":3098,"subsidy: ":1300.0,"total: ":4398.0}
+{"age: ":40,"department: ":"Engineering","employee ID: ":15462,"hiredate: ":"2013-02-01","level: ":5,"name: ":"Philip","salary: ":3198,"subsidy: ":1300.0,"total: ":4498.0}
+{"age: ":31,"department: ":"Human Resource","employee ID: ":15536,"hiredate: ":"2013-02-11","level: ":5,"name: ":"Horatio","salary: ":3298,"subsidy: ":1300.0,"total: ":4598.0}
+{"age: ":30,"department: ":"Development","employee ID: ":15610,"hiredate: ":"2013-02-21","level: ":5,"name: ":"Quinn","salary: ":3398,"subsidy: ":1300.0,"total: ":4698.0}
+{"age: ":29,"department: ":"Marketing","employee ID: ":15684,"hiredate: ":"2013-03-03","level: ":5,"name: ":"Respected","salary: ":3498,"subsidy: ":1300.0,"total: ":4798.0}
+{"age: ":28,"department: ":"Engineering","employee ID: ":15758,"hiredate: ":"2013-03-13","level: ":6,"name: ":"Gilroy","salary: ":3598,"subsidy: ":1400.0,"total: ":4998.0}
+{"age: ":27,"department: ":"Human Resource","employee ID: ":15832,"hiredate: ":"2013-03-23","level: ":6,"name: ":"Ward","salary: ":3698,"subsidy: ":1400.0,"total: ":5098.0}
+{"age: ":26,"department: ":"Development","employee ID: ":15906,"hiredate: ":"2013-04-02","level: ":6,"name: ":"Edmund","salary: ":3798,"subsidy: ":1400.0,"total: ":5198.0}
+{"age: ":25,"department: ":"Ministry of Law ","employee ID: ":15980,"hiredate: ":"2013-04-12","level: ":6,"name: ":"Roy","salary: ":3898,"subsidy: ":1400.0,"total: ":5298.0}
+{"age: ":24,"department: ":"Production","employee ID: ":16054,"hiredate: ":"2013-04-22","level: ":6,"name: ":"Neville","salary: ":3998,"subsidy: ":1400.0,"total: ":5398.0}
+{"age: ":33,"department: ":"Purchasing","employee ID: ":16128,"hiredate: ":"2013-05-02","level: ":6,"name: ":"Roland","salary: ":4098,"subsidy: ":1400.0,"total: ":5498.0}
+{"age: ":40,"department: ":"Marketing","employee ID: ":16202,"hiredate: ":"2013-05-12","level: ":6,"name: ":"Samuel","salary: ":4198,"subsidy: ":1400.0,"total: ":5598.0}
+{"age: ":47,"department: ":"Engineering","employee ID: ":16276,"hiredate: ":"2013-05-22","level: ":6,"name: ":"Paxton","salary: ":4298,"subsidy: ":1400.0,"total: ":5698.0}
+{"age: ":54,"department: ":"Finance","employee ID: ":16350,"hiredate: ":"2013-06-01","level: ":6,"name: ":"Sinclair","salary: ":4398,"subsidy: ":1400.0,"total: ":5798.0}
+{"age: ":55,"department: ":"Ministry of Law ","employee ID: ":16424,"hiredate: ":"2013-06-11","level: ":8,"name: ":"Sherard","salary: ":5901,"subsidy: ":1500.0,"total: ":7401.0}
+{"age: ":29,"department: ":"Production","employee ID: ":16498,"hiredate: ":"2013-06-21","level: ":8,"name: ":"Rhett","salary: ":5891,"subsidy: ":1500.0,"total: ":7391.0}
+{"age: ":20,"department: ":"Purchasing","employee ID: ":16572,"hiredate: ":"2013-07-01","level: ":8,"name: ":"Norseman","salary: ":5881,"subsidy: ":1500.0,"total: ":7381.0}
+{"age: ":30,"department: ":"Marketing","employee ID: ":16646,"hiredate: ":"2013-07-11","level: ":8,"name: ":"Quinlan","salary: ":5871,"subsidy: ":1500.0,"total: ":7371.0}
+{"age: ":40,"department: ":"Ministry of Law ","employee ID: ":16720,"hiredate: ":"2013-07-21","level: ":8,"name: ":"Doris","salary: ":5861,"subsidy: ":1500.0,"total: ":7361.0}
+{"age: ":27,"department: ":"Production","employee ID: ":16794,"hiredate: ":"2013-07-31","level: ":8,"name: ":"Monica","salary: ":5851,"subsidy: ":1500.0,"total: ":7351.0}
+{"age: ":26,"department: ":"Purchasing","employee ID: ":16868,"hiredate: ":"2013-08-10","level: ":8,"name: ":"Myrrh","salary: ":5841,"subsidy: ":1500.0,"total: ":7341.0}
+{"age: ":25,"department: ":"Marketing","employee ID: ":16942,"hiredate: ":"2013-08-20","level: ":8,"name: ":"Serene","salary: ":5831,"subsidy: ":1500.0,"total: ":7331.0}
+{"age: ":24,"department: ":"Engineering","employee ID: ":17016,"hiredate: ":"2013-08-30","level: ":8,"name: ":"Eighth","salary: ":5821,"subsidy: ":1500.0,"total: ":7321.0}
+{"age: ":33,"department: ":"Marketing","employee ID: ":17090,"hiredate: ":"2013-09-09","level: ":8,"name: ":"Dark-Haired","salary: ":5811,"subsidy: ":1500.0,"total: ":7311.0}
+{"age: ":40,"department: ":"Engineering","employee ID: ":17164,"hiredate: ":"2013-09-19","level: ":8,"name: ":"Sirena","salary: ":5801,"subsidy: ":1500.0,"total: ":7301.0}
+{"age: ":47,"department: ":"Human Resource","employee ID: ":17238,"hiredate: ":"2013-09-29","level: ":8,"name: ":"Patty","salary: ":5791,"subsidy: ":1500.0,"total: ":7291.0}
+{"age: ":54,"department: ":"Development","employee ID: ":17312,"hiredate: ":"2013-10-09","level: ":8,"name: ":"Adrienne","salary: ":5781,"subsidy: ":1500.0,"total: ":7281.0}
+{"age: ":55,"department: ":"Marketing","employee ID: ":17386,"hiredate: ":"2013-10-19","level: ":8,"name: ":"Eunice","salary: ":5771,"subsidy: ":1500.0,"total: ":7271.0}
+{"age: ":29,"department: ":"Engineering","employee ID: ":17460,"hiredate: ":"2013-10-29","level: ":8,"name: ":"Nessia","salary: ":5761,"subsidy: ":1500.0,"total: ":7261.0}
+{"age: ":20,"department: ":"Human Resource","employee ID: ":17534,"hiredate: ":"2013-11-08","level: ":8,"name: ":"Effie","salary: ":5751,"subsidy: ":1500.0,"total: ":7251.0}
+{"age: ":30,"department: ":"Development","employee ID: ":17608,"hiredate: ":"2013-11-18","level: ":8,"name: ":"Delilah","salary: ":5741,"subsidy: ":1500.0,"total: ":7241.0}
+{"age: ":40,"department: ":"Ministry of Law ","employee ID: ":17682,"hiredate: ":"2013-11-28","level: ":8,"name: ":"Talia","salary: ":5731,"subsidy: ":1500.0,"total: ":7231.0}
+{"age: ":31,"department: ":"Production","employee ID: ":17756,"hiredate: ":"2013-12-08","level: ":8,"name: ":"Peace","salary: ":5721,"subsidy: ":1500.0,"total: ":7221.0}
+{"age: ":30,"department: ":"Purchasing","employee ID: ":17830,"hiredate: ":"2013-12-18","level: ":8,"name: ":"Fighter","salary: ":5711,"subsidy: ":1500.0,"total: ":7211.0}
+{"age: ":29,"department: ":"Marketing","employee ID: ":17904,"hiredate: ":"2013-12-28","level: ":8,"name: ":"Ulrica","salary: ":5701,"subsidy: ":1500.0,"total: ":7201.0}
+{"age: ":28,"department: ":"Engineering","employee ID: ":17978,"hiredate: ":"2014-01-07","level: ":8,"name: ":"Searcher","salary: ":5691,"subsidy: ":1500.0,"total: ":7191.0}
+{"age: ":27,"department: ":"Finance","employee ID: ":18052,"hiredate: ":"2014-01-17","level: ":8,"name: ":"Teresa","salary: ":5681,"subsidy: ":1500.0,"total: ":7181.0}
+{"age: ":26,"department: ":"Customer Service","employee ID: ":18054,"hiredate: ":"2014-01-27","level: ":8,"name: ":"Miriam","salary: ":5671,"subsidy: ":1500.0,"total: ":7171.0}
+{"age: ":25,"department: ":"Human Resource","employee ID: ":18302,"hiredate: ":"2014-02-06","level: ":8,"name: ":"Jacob","salary: ":5661,"subsidy: ":1500.0,"total: ":7161.0}
+{"age: ":24,"department: ":"Development","employee ID: ":18550,"hiredate: ":"2014-02-16","level: ":8,"name: ":"Harold","salary: ":5651,"subsidy: ":1500.0,"total: ":7151.0}
+{"age: ":33,"department: ":"Ministry of Law ","employee ID: ":18798,"hiredate: ":"2014-02-26","level: ":8,"name: ":"Dixon","salary: ":5641,"subsidy: ":1500.0,"total: ":7141.0}
+{"age: ":40,"department: ":"Production","employee ID: ":19046,"hiredate: ":"2014-03-08","level: ":8,"name: ":"Falcon","salary: ":5631,"subsidy: ":1500.0,"total: ":7131.0}
+{"age: ":47,"department: ":"Purchasing","employee ID: ":19294,"hiredate: ":"2014-03-18","level: ":8,"name: ":"Lamont","salary: ":5621,"subsidy: ":1500.0,"total: ":7121.0}
+{"age: ":54,"department: ":"Marketing","employee ID: ":19542,"hiredate: ":"2014-03-28","level: ":8,"name: ":"Randolph","salary: ":5611,"subsidy: ":1500.0,"total: ":7111.0}
+{"age: ":55,"department: ":"Engineering","employee ID: ":19790,"hiredate: ":"2014-04-07","level: ":8,"name: ":"Hubert","salary: ":5601,"subsidy: ":1500.0,"total: ":7101.0}
+{"age: ":29,"department: ":"Finance","employee ID: ":20038,"hiredate: ":"2014-04-17","level: ":8,"name: ":"Matthew","salary: ":5591,"subsidy: ":1500.0,"total: ":7091.0}
+{"age: ":27,"department: ":"Testing","employee ID: ":20286,"hiredate: ":"2014-04-27","level: ":8,"name: ":"Lyndon","salary: ":5581,"subsidy: ":1500.0,"total: ":7081.0}
+{"age: ":26,"department: ":"Customer Service","employee ID: ":20534,"hiredate: ":"2014-05-07","level: ":8,"name: ":"Luther","salary: ":5571,"subsidy: ":1500.0,"total: ":7071.0}
+{"age: ":25,"department: ":"Customer Service","employee ID: ":20782,"hiredate: ":"2014-05-17","level: ":8,"name: ":"Gwen","salary: ":5561,"subsidy: ":1500.0,"total: ":7061.0}
+{"age: ":24,"department: ":"Human Resource","employee ID: ":21030,"hiredate: ":"2014-05-27","level: ":8,"name: ":"Bianca","salary: ":5551,"subsidy: ":1500.0,"total: ":7051.0}
+{"age: ":33,"department: ":"Development","employee ID: ":21278,"hiredate: ":"2014-06-06","level: ":8,"name: ":"Ingrid","salary: ":5541,"subsidy: ":1400.0,"total: ":6941.0}
+{"age: ":40,"department: ":"Ministry of Law ","employee ID: ":21526,"hiredate: ":"2014-06-16","level: ":8,"name: ":"Quintana","salary: ":5531,"subsidy: ":1400.0,"total: ":6931.0}
+{"age: ":47,"department: ":"Production","employee ID: ":21774,"hiredate: ":"2014-06-26","level: ":8,"name: ":"Margot","salary: ":5521,"subsidy: ":1400.0,"total: ":6921.0}
+{"age: ":54,"department: ":"Purchasing","employee ID: ":22022,"hiredate: ":"2014-07-06","level: ":8,"name: ":"Briana","salary: ":5511,"subsidy: ":1400.0,"total: ":6911.0}
+{"age: ":55,"department: ":"Marketing","employee ID: ":22270,"hiredate: ":"2014-07-16","level: ":8,"name: ":"Eudora","salary: ":5501,"subsidy: ":1400.0,"total: ":6901.0}
+{"age: ":29,"department: ":"Engineering","employee ID: ":22518,"hiredate: ":"2014-07-26","level: ":7,"name: ":"Glynnis","salary: ":5491,"subsidy: ":1300.0,"total: ":6791.0}
+{"age: ":20,"department: ":"Human Resource","employee ID: ":22766,"hiredate: ":"2014-08-05","level: ":7,"name: ":"Jemima","salary: ":5481,"subsidy: ":1300.0,"total: ":6781.0}
+{"age: ":30,"department: ":"Development","employee ID: ":23014,"hiredate: ":"2014-08-15","level: ":7,"name: ":"Whitney","salary: ":5471,"subsidy: ":1300.0,"total: ":6771.0}
+{"age: ":40,"department: ":"Ministry of Law ","employee ID: ":23262,"hiredate: ":"2014-08-25","level: ":7,"name: ":"Ernest","salary: ":5461,"subsidy: ":1300.0,"total: ":6761.0}
+{"age: ":31,"department: ":"Production","employee ID: ":23510,"hiredate: ":"2014-09-04","level: ":7,"name: ":"Peaceful","salary: ":5451,"subsidy: ":1300.0,"total: ":6751.0}
+{"age: ":30,"department: ":"Purchasing","employee ID: ":23758,"hiredate: ":"2020-01-19","level: ":7,"name: ":"Trent","salary: ":5441,"subsidy: ":800.0,"total: ":6241.0}
+{"age: ":29,"department: ":"Marketing","employee ID: ":24006,"hiredate: ":"2019-12-13","level: ":7,"name: ":"Graham","salary: ":5431,"subsidy: ":800.0,"total: ":6231.0}
+{"age: ":28,"department: ":"Production","employee ID: ":24254,"hiredate: ":"2019-11-06","level: ":7,"name: ":"Just","salary: ":5421,"subsidy: ":800.0,"total: ":6221.0}
+{"age: ":27,"department: ":"Purchasing","employee ID: ":24502,"hiredate: ":"2019-09-30","level: ":7,"name: ":"Harris","salary: ":5411,"subsidy: ":800.0,"total: ":6211.0}
+{"age: ":26,"department: ":"Marketing","employee ID: ":24750,"hiredate: ":"2019-08-24","level: ":7,"name: ":"Walter","salary: ":5401,"subsidy: ":800.0,"total: ":6201.0}
+{"age: ":25,"department: ":"Engineering","employee ID: ":24998,"hiredate: ":"2019-07-18","level: ":7,"name: ":"Vernon","salary: ":5391,"subsidy: ":800.0,"total: ":6191.0}
+{"age: ":24,"department: ":"Human Resource","employee ID: ":25246,"hiredate: ":"2019-06-11","level: ":7,"name: ":"Helpful","salary: ":5381,"subsidy: ":800.0,"total: ":6181.0}
+{"age: ":33,"department: ":"Development","employee ID: ":25494,"hiredate: ":"2019-05-05","level: ":7,"name: ":"Long-Beard","salary: ":5371,"subsidy: ":900.0,"total: ":6271.0}
+{"age: ":40,"department: ":"Ministry of Law ","employee ID: ":25742,"hiredate: ":"2019-03-29","level: ":7,"name: ":"Hunter","salary: ":5361,"subsidy: ":900.0,"total: ":6261.0}
+{"age: ":47,"department: ":"Production","employee ID: ":25990,"hiredate: ":"2019-02-20","level: ":7,"name: ":"Douglas","salary: ":5351,"subsidy: ":900.0,"total: ":6251.0}
+{"age: ":54,"department: ":"Engineering","employee ID: ":26238,"hiredate: ":"2019-01-14","level: ":7,"name: ":"Egbert","salary: ":5341,"subsidy: ":900.0,"total: ":6241.0}
+{"age: ":55,"department: ":"Engineering","employee ID: ":26486,"hiredate: ":"2018-12-08","level: ":7,"name: ":"Grayson","salary: ":5331,"subsidy: ":900.0,"total: ":6231.0}
+{"age: ":29,"department: ":"Engineering","employee ID: ":26734,"hiredate: ":"2018-11-01","level: ":7,"name: ":"Torrent","salary: ":5321,"subsidy: ":900.0,"total: ":6221.0}
+{"age: ":27,"department: ":"Development","employee ID: ":26982,"hiredate: ":"2018-09-25","level: ":7,"name: ":"Logan","salary: ":5311,"subsidy: ":900.0,"total: ":6211.0}
+{"age: ":26,"department: ":"Development","employee ID: ":27230,"hiredate: ":"2018-08-19","level: ":7,"name: ":"Hall","salary: ":5301,"subsidy: ":900.0,"total: ":6201.0}
+{"age: ":25,"department: ":"Production","employee ID: ":27478,"hiredate: ":"2018-07-13","level: ":7,"name: ":"Edmond","salary: ":5291,"subsidy: ":900.0,"total: ":6191.0}
+{"age: ":24,"department: ":"Production","employee ID: ":27726,"hiredate: ":"2018-06-06","level: ":7,"name: ":"Ross","salary: ":5281,"subsidy: ":900.0,"total: ":6181.0}
+{"age: ":33,"department: ":"Production","employee ID: ":27974,"hiredate: ":"2018-04-30","level: ":7,"name: ":"Just","salary: ":5271,"subsidy: ":1000.0,"total: ":6271.0}
+{"age: ":40,"department: ":"Customer Service","employee ID: ":28222,"hiredate: ":"2018-03-24","level: ":7,"name: ":"Virginia","salary: ":5261,"subsidy: ":1000.0,"total: ":6261.0}
+{"age: ":47,"department: ":"Engineering","employee ID: ":28470,"hiredate: ":"2018-02-15","level: ":7,"name: ":"Alexandra","salary: ":5251,"subsidy: ":1000.0,"total: ":6251.0}
+{"age: ":54,"department: ":"Testing","employee ID: ":28718,"hiredate: ":"2018-01-09","level: ":7,"name: ":"Lucille","salary: ":5241,"subsidy: ":1000.0,"total: ":6241.0}
+{"age: ":55,"department: ":"Production","employee ID: ":28966,"hiredate: ":"2017-12-03","level: ":7,"name: ":"Lea","salary: ":5231,"subsidy: ":1000.0,"total: ":6231.0}
+{"age: ":29,"department: ":"Engineering","employee ID: ":29011,"hiredate: ":"2017-10-27","level: ":7,"name: ":"Anastasia","salary: ":5221,"subsidy: ":1000.0,"total: ":6221.0}
+{"age: ":20,"department: ":"Engineering","employee ID: ":29019,"hiredate: ":"2017-09-20","level: ":7,"name: ":"Hilda","salary: ":5211,"subsidy: ":1000.0,"total: ":6211.0}
+{"age: ":30,"department: ":"Engineering","employee ID: ":29027,"hiredate: ":"2017-08-14","level: ":7,"name: ":"Francesca","salary: ":5201,"subsidy: ":1000.0,"total: ":6201.0}
+{"age: ":40,"department: ":"Development","employee ID: ":29035,"hiredate: ":"2017-07-08","level: ":7,"name: ":"Jennifer","salary: ":5191,"subsidy: ":1000.0,"total: ":6191.0}
+{"age: ":31,"department: ":"Development","employee ID: ":29043,"hiredate: ":"2017-06-01","level: ":7,"name: ":"Rosalie","salary: ":5181,"subsidy: ":1100.0,"total: ":6281.0}
+{"age: ":30,"department: ":"Production","employee ID: ":29051,"hiredate: ":"2017-04-25","level: ":7,"name: ":"Tilda","salary: ":5171,"subsidy: ":1100.0,"total: ":6271.0}
+{"age: ":29,"department: ":"Production","employee ID: ":29059,"hiredate: ":"2017-03-19","level: ":7,"name: ":"Hanna","salary: ":5161,"subsidy: ":1100.0,"total: ":6261.0}
+{"age: ":28,"department: ":"Production","employee ID: ":29067,"hiredate: ":"2017-02-10","level: ":7,"name: ":"Eunice","salary: ":5151,"subsidy: ":1100.0,"total: ":6251.0}
+{"age: ":27,"department: ":"Customer Service","employee ID: ":29075,"hiredate: ":"2017-01-04","level: ":7,"name: ":"Wolf","salary: ":5141,"subsidy: ":1100.0,"total: ":6241.0}
+{"age: ":26,"department: ":"Engineering","employee ID: ":29083,"hiredate: ":"2016-11-28","level: ":7,"name: ":"Louisa","salary: ":5131,"subsidy: ":1100.0,"total: ":6231.0}
+{"age: ":25,"department: ":"Testing","employee ID: ":29091,"hiredate: ":"2016-10-22","level: ":7,"name: ":"Beloved","salary: ":5121,"subsidy: ":1100.0,"total: ":6221.0}
+{"age: ":24,"department: ":"Production","employee ID: ":29099,"hiredate: ":"2016-09-15","level: ":7,"name: ":"Mavis","salary: ":5111,"subsidy: ":1100.0,"total: ":6211.0}
+{"age: ":33,"department: ":"Engineering","employee ID: ":29107,"hiredate: ":"2016-08-09","level: ":7,"name: ":"Madeline","salary: ":5101,"subsidy: ":1100.0,"total: ":6201.0}
+{"age: ":40,"department: ":"Engineering","employee ID: ":29115,"hiredate: ":"2016-07-03","level: ":7,"name: ":"Graceful","salary: ":5091,"subsidy: ":1100.0,"total: ":6191.0}
+{"age: ":47,"department: ":"Engineering","employee ID: ":29123,"hiredate: ":"2016-05-27","level: ":7,"name: ":"Free","salary: ":5081,"subsidy: ":1200.0,"total: ":6281.0}
+{"age: ":54,"department: ":"Development","employee ID: ":29131,"hiredate: ":"2016-04-20","level: ":7,"name: ":"Blair","salary: ":5071,"subsidy: ":1200.0,"total: ":6271.0}
+{"age: ":55,"department: ":"Development","employee ID: ":29139,"hiredate: ":"2016-03-14","level: ":7,"name: ":"Pleasure","salary: ":5061,"subsidy: ":1200.0,"total: ":6261.0}
+{"age: ":29,"department: ":"Production","employee ID: ":29147,"hiredate: ":"2016-02-06","level: ":7,"name: ":"Olga","salary: ":5051,"subsidy: ":1200.0,"total: ":6251.0}
+{"age: ":23,"department: ":"Production","employee ID: ":29155,"hiredate: ":"2015-12-31","level: ":7,"name: ":"Sharon","salary: ":5041,"subsidy: ":1200.0,"total: ":6241.0}
+{"age: ":35,"department: ":"Production","employee ID: ":29163,"hiredate: ":"2015-11-24","level: ":7,"name: ":"Eugenia","salary: ":5031,"subsidy: ":1200.0,"total: ":6231.0}
+{"age: ":44,"department: ":"Customer Service","employee ID: ":29171,"hiredate: ":"2015-10-18","level: ":7,"name: ":"Wynne","salary: ":5021,"subsidy: ":1200.0,"total: ":6221.0}
+{"age: ":32,"department: ":"Engineering","employee ID: ":29179,"hiredate: ":"2015-09-11","level: ":7,"name: ":"Sunshine","salary: ":5011,"subsidy: ":1200.0,"total: ":6211.0}
+{"age: ":48,"department: ":"Testing","employee ID: ":29187,"hiredate: ":"2015-08-05","level: ":7,"name: ":"Livia","salary: ":5001,"subsidy: ":1200.0,"total: ":6201.0}
+{"age: ":59,"department: ":"Production","employee ID: ":29195,"hiredate: ":"2015-06-29","level: ":7,"name: ":"Willow","salary: ":4991,"subsidy: ":1200.0,"total: ":6191.0}
+{"age: ":57,"department: ":"Engineering","employee ID: ":29203,"hiredate: ":"2015-05-23","level: ":7,"name: ":"Handmaiden","salary: ":4981,"subsidy: ":1300.0,"total: ":6281.0}
+{"age: ":52,"department: ":"Engineering","employee ID: ":29211,"hiredate: ":"2015-04-16","level: ":7,"name: ":"Rosalind","salary: ":4971,"subsidy: ":1300.0,"total: ":6271.0}
+{"age: ":42,"department: ":"Engineering","employee ID: ":29219,"hiredate: ":"2015-03-10","level: ":7,"name: ":"Tanya","salary: ":4961,"subsidy: ":1300.0,"total: ":6261.0}
+{"age: ":39,"department: ":"Development","employee ID: ":29227,"hiredate: ":"2015-02-01","level: ":7,"name: ":"Thea","salary: ":4951,"subsidy: ":1300.0,"total: ":6251.0}
+{"age: ":49,"department: ":"Development","employee ID: ":29235,"hiredate: ":"2014-12-26","level: ":7,"name: ":"Wenda","salary: ":4941,"subsidy: ":1300.0,"total: ":6241.0}
+{"age: ":21,"department: ":"Production","employee ID: ":29243,"hiredate: ":"2014-11-19","level: ":7,"name: ":"Noble","salary: ":4931,"subsidy: ":1300.0,"total: ":6231.0}
+{"age: ":30,"department: ":"Production","employee ID: ":29251,"hiredate: ":"2014-10-13","level: ":7,"name: ":"Kerri","salary: ":4921,"subsidy: ":1300.0,"total: ":6221.0}
+{"age: ":50,"department: ":"Production","employee ID: ":29259,"hiredate: ":"2014-09-06","level: ":7,"name: ":"Gabrielle","salary: ":4911,"subsidy: ":1300.0,"total: ":6211.0}
+{"age: ":22,"department: ":"Customer Service","employee ID: ":29267,"hiredate: ":"2014-07-31","level: ":7,"name: ":"Blanche","salary: ":4901,"subsidy: ":1300.0,"total: ":6201.0}
+{"age: ":46,"department: ":"Engineering","employee ID: ":29275,"hiredate: ":"2014-06-24","level: ":7,"name: ":"Kirsten","salary: ":4891,"subsidy: ":1300.0,"total: ":6191.0}
+{"age: ":37,"department: ":"Testing","employee ID: ":29283,"hiredate: ":"2014-05-18","level: ":7,"name: ":"Graceful","salary: ":4881,"subsidy: ":1400.0,"total: ":6281.0}
+{"age: ":24,"department: ":"Development","employee ID: ":29291,"hiredate: ":"2014-04-11","level: ":7,"name: ":"Lively","salary: ":4871,"subsidy: ":1400.0,"total: ":6271.0}
+{"age: ":42,"department: ":"Development","employee ID: ":29299,"hiredate: ":"2014-03-05","level: ":7,"name: ":"Quintessa","salary: ":4861,"subsidy: ":1400.0,"total: ":6261.0}
+{"age: ":44,"department: ":"Production","employee ID: ":29307,"hiredate: ":"2014-01-27","level: ":7,"name: ":"Matilda","salary: ":4851,"subsidy: ":1400.0,"total: ":6251.0}
+{"age: ":32,"department: ":"Production","employee ID: ":29315,"hiredate: ":"2013-12-21","level: ":7,"name: ":"Gentle","salary: ":4841,"subsidy: ":1400.0,"total: ":6241.0}
+{"age: ":48,"department: ":"Production","employee ID: ":29323,"hiredate: ":"2013-11-14","level: ":7,"name: ":"Eudora","salary: ":4831,"subsidy: ":1400.0,"total: ":6231.0}
+{"age: ":59,"department: ":"Customer Service","employee ID: ":29331,"hiredate: ":"2013-10-08","level: ":7,"name: ":"Trista","salary: ":4821,"subsidy: ":1400.0,"total: ":6221.0}
+{"age: ":57,"department: ":"Engineering","employee ID: ":29339,"hiredate: ":"2013-06-20","level: ":7,"name: ":"Kay","salary: ":4811,"subsidy: ":1400.0,"total: ":6211.0}
+{"age: ":52,"department: ":"Testing","employee ID: ":29347,"hiredate: ":"2014-01-21","level: ":7,"name: ":"Philomena","salary: ":4801,"subsidy: ":1400.0,"total: ":6201.0}
+{"age: ":42,"department: ":"Production","employee ID: ":29355,"hiredate: ":"2014-08-24","level: ":7,"name: ":"Glorious","salary: ":4791,"subsidy: ":1300.0,"total: ":6091.0}
+{"age: ":39,"department: ":"Engineering","employee ID: ":29363,"hiredate: ":"2015-03-27","level: ":6,"name: ":"Aileen","salary: ":3601,"subsidy: ":1200.0,"total: ":4801.0}
+{"age: ":49,"department: ":"Engineering","employee ID: ":29371,"hiredate: ":"2015-10-28","level: ":5,"name: ":"Rachel","salary: ":2901,"subsidy: ":1000.0,"total: ":3901.0}
+{"age: ":21,"department: ":"Engineering","employee ID: ":29379,"hiredate: ":"2016-05-30","level: ":5,"name: ":"Derek","salary: ":2801,"subsidy: ":1000.0,"total: ":3801.0}
+{"age: ":30,"department: ":"Development","employee ID: ":29387,"hiredate: ":"2016-12-31","level: ":5,"name: ":"Kimball","salary: ":2701,"subsidy: ":900.0,"total: ":3601.0}
+{"age: ":50,"department: ":"Development","employee ID: ":29395,"hiredate: ":"2017-08-03","level: ":5,"name: ":"Ardent","salary: ":2601,"subsidy: ":800.0,"total: ":3401.0}
+{"age: ":22,"department: ":"Production","employee ID: ":29403,"hiredate: ":"2018-03-06","level: ":5,"name: ":"Flourishing","salary: ":2501,"subsidy: ":800.0,"total: ":3301.0}
+{"age: ":46,"department: ":"Production","employee ID: ":29411,"hiredate: ":"2018-10-07","level: ":4,"name: ":"Kimball","salary: ":2401,"subsidy: ":600.0,"total: ":3001.0}
+{"age: ":37,"department: ":"Development","employee ID: ":29419,"hiredate: ":"2019-05-10","level: ":4,"name: ":"Guide","salary: ":2301,"subsidy: ":600.0,"total: ":2901.0}
+{"age: ":24,"department: ":"Development","employee ID: ":29427,"hiredate: ":"2019-12-11","level: ":4,"name: ":"Edward","salary: ":2201,"subsidy: ":500.0,"total: ":2701.0}
+{"age: ":44,"department: ":"Production","employee ID: ":29435,"hiredate: ":"2020-07-13","level: ":4,"name: ":"Neal","salary: ":2101,"subsidy: ":400.0,"total: ":2501.0}
+{"age: ":32,"department: ":"Production","employee ID: ":29443,"hiredate: ":"2021-02-13","level: ":4,"name: ":"Willise","salary: ":2001,"subsidy: ":400.0,"total: ":2401.0}
+{"age: ":48,"department: ":"Production","employee ID: ":29451,"hiredate: ":"2011-09-16","level: ":4,"name: ":"Montgomery","salary: ":1901,"subsidy: ":1300.0,"total: ":3201.0}
+{"age: ":59,"department: ":"Customer Service","employee ID: ":29459,"hiredate: ":"2013-11-14","level: ":4,"name: ":"Simone","salary: ":1801,"subsidy: ":1100.0,"total: ":2901.0}
+{"age: ":57,"department: ":"Engineering","employee ID: ":29467,"hiredate: ":"2013-10-08","level: ":4,"name: ":"Eighth","salary: ":1701,"subsidy: ":1100.0,"total: ":2801.0}
+{"age: ":52,"department: ":"Testing","employee ID: ":29475,"hiredate: ":"2013-06-20","level: ":4,"name: ":"Harmony","salary: ":1601,"subsidy: ":1100.0,"total: ":2701.0}
+{"age: ":42,"department: ":"Production","employee ID: ":29483,"hiredate: ":"2014-01-21","level: ":9,"name: ":"Lara","salary: ":8201,"subsidy: ":1600.0,"total: ":9801.0}
+{"age: ":39,"department: ":"Engineering","employee ID: ":29491,"hiredate: ":"2014-08-24","level: ":9,"name: ":"Louisa","salary: ":7201,"subsidy: ":1500.0,"total: ":8701.0}
+{"age: ":49,"department: ":"Engineering","employee ID: ":29499,"hiredate: ":"2015-03-27","level: ":8,"name: ":"Karen","salary: ":5933,"subsidy: ":1400.0,"total: ":7333.0}
+{"age: ":21,"department: ":"Engineering","employee ID: ":29507,"hiredate: ":"2015-10-28","level: ":5,"name: ":"Holly","salary: ":2900,"subsidy: ":1000.0,"total: ":3900.0}
+{"age: ":30,"department: ":"Development","employee ID: ":29515,"hiredate: ":"2016-05-30","level: ":3,"name: ":"Renata","salary: ":1000,"subsidy: ":800.0,"total: ":1800.0}
+{"age: ":50,"department: ":"Development","employee ID: ":29523,"hiredate: ":"2016-12-31","level: ":4,"name: ":"Peaceful","salary: ":1900,"subsidy: ":800.0,"total: ":2700.0}
+{"age: ":22,"department: ":"Production","employee ID: ":29531,"hiredate: ":"2017-08-03","level: ":4,"name: ":"Meadow","salary: ":2390,"subsidy: ":700.0,"total: ":3090.0}
